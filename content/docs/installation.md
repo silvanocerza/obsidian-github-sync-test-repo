@@ -5,4 +5,4 @@ docker-compose up
 ```
 
 
-This is a nice in
+This is a nice installation guide
