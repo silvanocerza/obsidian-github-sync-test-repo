@@ -5,3 +5,4 @@
 4. Profit
 5. Get filthy rich
 6. Get killed by rightfully angry mob
+7. Migrate to GCP
