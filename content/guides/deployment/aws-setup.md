@@ -3,4 +3,4 @@
 2. Setup Load Balancer
 3. Setup DB
 4. Hello folks
-5. Hello there
+5. Hello people
