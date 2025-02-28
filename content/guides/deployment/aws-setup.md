@@ -3,6 +3,7 @@
 2. Setup Load Balancer
 3. Setup DB
 4. ???
-5. Hello folks
-6. Hello everyone
-7. Bars
+5. !!!!!!!!
+6. Hello folks
+7. Hello everyone
+8. Bars
