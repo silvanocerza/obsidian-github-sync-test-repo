@@ -2,6 +2,7 @@
 1. Configure EC2
 2. Setup Load Balancer
 3. Setup DB
-4. Hello folks
-5. Hello everyone
-6. FOo
+4. ???
+5. Hello folks
+6. Hello everyone
+7. Bars
