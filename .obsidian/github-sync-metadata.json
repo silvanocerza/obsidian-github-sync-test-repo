@@ -1,1 +1,105 @@
-{"lastSync":1744987705810,"files":{".obsidian/github-sync-metadata.json":{"path":".obsidian/github-sync-metadata.json","sha":null,"dirty":false,"justDownloaded":false,"lastModified":1744876399716},"content/docs/getting-started.md":{"path":"content/docs/getting-started.md","sha":"a501cd49e9852ecdf0e505b4f16f2ff67f23c2f1","dirty":false,"justDownloaded":false,"lastModified":1742556737665},"README.md":{"path":"README.md","sha":"a3363dbe04f6c40110c7a74d0a207ed4fb508933","dirty":false,"justDownloaded":false,"lastModified":1742556737664},"content/README.md":{"path":"content/README.md","sha":"576a784bda13b1ac7c06f7e5132ccb33135d92d7","dirty":false,"justDownloaded":false,"lastModified":1742556737665},"content/docs/installation.md":{"path":"content/docs/installation.md","sha":"de409ddf9611e04df3e274c3879f72c7d2e84d95","dirty":false,"justDownloaded":false,"lastModified":1742556737665},"content/400x400.png":{"path":"content/400x400.png","sha":"bbc468906427eaee990a0419c94113d6215f949b","dirty":false,"justDownloaded":false,"lastModified":1742568293333},"content/600x400.png":{"path":"content/600x400.png","sha":"92a9bc0d347e6060701da20401e6fc5fca09ed13","dirty":false,"justDownloaded":false,"lastModified":1742556737665},"content/guides/best-practices-renamed-another-time.md":{"path":"content/guides/best-practices-renamed-another-time.md","sha":"6cbd5b24bd5d244ecfc95cd1d1f00fc5392a2e6a","dirty":false,"justDownloaded":false,"lastModified":1742556737665},"content/guides/deployment/aws-setup.md":{"path":"content/guides/deployment/aws-setup.md","sha":"112495bf1959e035e7946f601d57c2eedf1264de","dirty":false,"justDownloaded":false,"lastModified":1742556737665},"content/config/settings.md":{"path":"content/config/settings.md","sha":"ecd77a237eaa25a7f4582a75a72611de2a6652a2","dirty":false,"justDownloaded":false,"lastModified":1742556737665},"content/api/authentication.md":{"path":"content/api/authentication.md","sha":"c20a4dea52f51c73632708fcee6f409dccb204dd","dirty":false,"justDownloaded":false,"lastModified":1742556737665},"content/guides/monitoring/metrics.md":{"path":"content/guides/monitoring/metrics.md","sha":"1c8101225d138f5c1125d88ebe4b7d2dd138da6d","dirty":false,"justDownloaded":false,"lastModified":1742556737665},"content/guides/monitoring/settings.md":{"path":"content/guides/monitoring/settings.md","sha":"199b21d688ebf99114b9015c6b7e9eb92bc39265","dirty":false,"justDownloaded":false,"lastModified":1742556737665},"Untitled.md":{"path":"Untitled.md","sha":null,"dirty":true,"justDownloaded":false,"lastModified":1744984103381,"deleted":true,"deletedAt":1744984244458},".gitignore":{"path":".gitignore","sha":"4c49bd78f1d08f2bc09fa0bd8191ed38b7dce5e3","dirty":false,"justDownloaded":true,"lastModified":1744888108884},"This is a new README.md.md":{"path":"This is a new README.md.md","sha":null,"dirty":true,"justDownloaded":false,"lastModified":1744984244457,"deleted":true,"deletedAt":1744984247995}}}
+{
+  "lastSync": 1744987705811,
+  "files": {
+    ".obsidian/github-sync-metadata.json": {
+      "path": ".obsidian/github-sync-metadata.json",
+      "sha": null,
+      "dirty": false,
+      "justDownloaded": false,
+      "lastModified": 1744876399716
+    },
+    "content/docs/getting-started.md": {
+      "path": "content/docs/getting-started.md",
+      "sha": "a501cd49e9852ecdf0e505b4f16f2ff67f23c2f1",
+      "dirty": false,
+      "justDownloaded": false,
+      "lastModified": 1742556737665
+    },
+    "README.md": {
+      "path": "README.md",
+      "sha": "a3363dbe04f6c40110c7a74d0a207ed4fb508933",
+      "dirty": false,
+      "justDownloaded": false,
+      "lastModified": 1742556737664
+    },
+    "content/README.md": {
+      "path": "content/README.md",
+      "sha": "576a784bda13b1ac7c06f7e5132ccb33135d92d7",
+      "dirty": false,
+      "justDownloaded": false,
+      "lastModified": 1742556737665
+    },
+    "content/docs/installation.md": {
+      "path": "content/docs/installation.md",
+      "sha": "de409ddf9611e04df3e274c3879f72c7d2e84d95",
+      "dirty": false,
+      "justDownloaded": false,
+      "lastModified": 1742556737665
+    },
+    "content/400x400.png": {
+      "path": "content/400x400.png",
+      "sha": "bbc468906427eaee990a0419c94113d6215f949b",
+      "dirty": false,
+      "justDownloaded": false,
+      "lastModified": 1742568293333
+    },
+    "content/600x400.png": {
+      "path": "content/600x400.png",
+      "sha": "92a9bc0d347e6060701da20401e6fc5fca09ed13",
+      "dirty": false,
+      "justDownloaded": false,
+      "lastModified": 1742556737665
+    },
+    "content/guides/best-practices-renamed-another-time.md": {
+      "path": "content/guides/best-practices-renamed-another-time.md",
+      "sha": "6cbd5b24bd5d244ecfc95cd1d1f00fc5392a2e6a",
+      "dirty": false,
+      "justDownloaded": false,
+      "lastModified": 1742556737665
+    },
+    "content/guides/deployment/aws-setup.md": {
+      "path": "content/guides/deployment/aws-setup.md",
+      "sha": "112495bf1959e035e7946f601d57c2eedf1264de",
+      "dirty": false,
+      "justDownloaded": false,
+      "lastModified": 1742556737665
+    },
+    "content/config/settings.md": {
+      "path": "content/config/settings.md",
+      "sha": "ecd77a237eaa25a7f4582a75a72611de2a6652a2",
+      "dirty": false,
+      "justDownloaded": false,
+      "lastModified": 1742556737665
+    },
+    "content/api/authentication.md": {
+      "path": "content/api/authentication.md",
+      "sha": "c20a4dea52f51c73632708fcee6f409dccb204dd",
+      "dirty": false,
+      "justDownloaded": false,
+      "lastModified": 1742556737665
+    },
+    "content/guides/monitoring/metrics.md": {
+      "path": "content/guides/monitoring/metrics.md",
+      "sha": "1c8101225d138f5c1125d88ebe4b7d2dd138da6d",
+      "dirty": false,
+      "justDownloaded": false,
+      "lastModified": 1742556737665
+    },
+    "content/guides/monitoring/settings.md": {
+      "path": "content/guides/monitoring/settings.md",
+      "sha": "199b21d688ebf99114b9015c6b7e9eb92bc39265",
+      "dirty": false,
+      "justDownloaded": false,
+      "lastModified": 1742556737665
+    },
+    ".gitignore": {
+      "path": ".gitignore",
+      "sha": "4c49bd78f1d08f2bc09fa0bd8191ed38b7dce5e3",
+      "dirty": false,
+      "justDownloaded": true,
+      "lastModified": 1744888108884,
+      "deleted": true,
+      "deletedAt": 1744984244458
+    }
+  }
+}
