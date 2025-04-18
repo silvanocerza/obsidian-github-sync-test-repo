@@ -1,1 +1,103 @@
-{"lastSync":1744888108885,"files":{".obsidian/github-sync-metadata.json":{"path":".obsidian/github-sync-metadata.json","sha":"78593c3e9832125b7c1e3ede35cc36d1f9cc05ac","dirty":false,"justDownloaded":false,"lastModified":1744888048621},"content/600x400.png":{"path":"content/600x400.png","sha":null,"dirty":true,"justDownloaded":false,"lastModified":1744888108876},"content/400x400.png":{"path":"content/400x400.png","sha":null,"dirty":true,"justDownloaded":false,"lastModified":1744888108876},"README.md":{"path":"README.md","sha":null,"dirty":true,"justDownloaded":false,"lastModified":1744888108876},"content/README.md":{"path":"content/README.md","sha":null,"dirty":true,"justDownloaded":false,"lastModified":1744888108878},"content/api/authentication.md":{"path":"content/api/authentication.md","sha":null,"dirty":true,"justDownloaded":false,"lastModified":1744888108879},"content/docs/getting-started.md":{"path":"content/docs/getting-started.md","sha":null,"dirty":true,"justDownloaded":false,"lastModified":1744888108880},"content/config/settings.md":{"path":"content/config/settings.md","sha":null,"dirty":true,"justDownloaded":false,"lastModified":1744888108881},"content/docs/installation.md":{"path":"content/docs/installation.md","sha":null,"dirty":true,"justDownloaded":false,"lastModified":1744888108881},"content/guides/best-practices-renamed-another-time.md":{"path":"content/guides/best-practices-renamed-another-time.md","sha":null,"dirty":true,"justDownloaded":false,"lastModified":1744888108882},"content/guides/deployment/aws-setup.md":{"path":"content/guides/deployment/aws-setup.md","sha":null,"dirty":true,"justDownloaded":false,"lastModified":1744888108883},"content/guides/monitoring/metrics.md":{"path":"content/guides/monitoring/metrics.md","sha":null,"dirty":true,"justDownloaded":false,"lastModified":1744888108884},"content/guides/monitoring/settings.md":{"path":"content/guides/monitoring/settings.md","sha":null,"dirty":true,"justDownloaded":false,"lastModified":1744888108884}}}
+{
+  "lastSync": 1744888108886,
+  "files": {
+    ".obsidian/github-sync-metadata.json": {
+      "path": ".obsidian/github-sync-metadata.json",
+      "sha": "78593c3e9832125b7c1e3ede35cc36d1f9cc05ac",
+      "dirty": false,
+      "justDownloaded": false,
+      "lastModified": 1744888048621
+    },
+    "content/600x400.png": {
+      "path": "content/600x400.png",
+      "sha": null,
+      "dirty": true,
+      "justDownloaded": false,
+      "lastModified": 1744888108876
+    },
+    "content/400x400.png": {
+      "path": "content/400x400.png",
+      "sha": null,
+      "dirty": true,
+      "justDownloaded": false,
+      "lastModified": 1744888108876
+    },
+    "README.md": {
+      "path": "README.md",
+      "sha": null,
+      "dirty": true,
+      "justDownloaded": false,
+      "lastModified": 1744888108876
+    },
+    "content/README.md": {
+      "path": "content/README.md",
+      "sha": null,
+      "dirty": true,
+      "justDownloaded": false,
+      "lastModified": 1744888108878
+    },
+    "content/api/authentication.md": {
+      "path": "content/api/authentication.md",
+      "sha": null,
+      "dirty": true,
+      "justDownloaded": false,
+      "lastModified": 1744888108879
+    },
+    "content/docs/getting-started.md": {
+      "path": "content/docs/getting-started.md",
+      "sha": null,
+      "dirty": true,
+      "justDownloaded": false,
+      "lastModified": 1744888108880
+    },
+    "content/config/settings.md": {
+      "path": "content/config/settings.md",
+      "sha": null,
+      "dirty": true,
+      "justDownloaded": false,
+      "lastModified": 1744888108881
+    },
+    "content/docs/installation.md": {
+      "path": "content/docs/installation.md",
+      "sha": null,
+      "dirty": true,
+      "justDownloaded": false,
+      "lastModified": 1744888108881
+    },
+    "content/guides/best-practices-renamed-another-time.md": {
+      "path": "content/guides/best-practices-renamed-another-time.md",
+      "sha": null,
+      "dirty": true,
+      "justDownloaded": false,
+      "lastModified": 1744888108882
+    },
+    "content/guides/deployment/aws-setup.md": {
+      "path": "content/guides/deployment/aws-setup.md",
+      "sha": null,
+      "dirty": true,
+      "justDownloaded": false,
+      "lastModified": 1744888108883
+    },
+    "content/guides/monitoring/metrics.md": {
+      "path": "content/guides/monitoring/metrics.md",
+      "sha": null,
+      "dirty": true,
+      "justDownloaded": false,
+      "lastModified": 1744888108884
+    },
+    "content/guides/monitoring/settings.md": {
+      "path": "content/guides/monitoring/settings.md",
+      "sha": null,
+      "dirty": true,
+      "justDownloaded": false,
+      "lastModified": 1744888108884
+    },
+    ".gitignore": {
+      "path": ".gitignore",
+      "sha": null,
+      "dirty": true,
+      "justDownloaded": false,
+      "lastModified": 1744888108884
+    }
+  }
+}
